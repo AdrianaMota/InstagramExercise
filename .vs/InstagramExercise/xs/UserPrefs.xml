@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.ItemProperties.InstagramExercise.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.android" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InstagramExercise/Views/Profile.xaml.cs">
+    <Files>
+      <File FileName="InstagramExercise/Views/Profile.xaml.cs" Line="20" Column="1" />
+      <File FileName="InstagramExercise/Services/UserService.cs" />
+      <File FileName="InstagramExercise/Views/Activities.xaml.cs" />
+      <File FileName="InstagramExercise/Views/Activities.xaml" />
+      <File FileName="InstagramExercise/Views/Profile.xaml" />
+      <File FileName="InstagramExercise/Services/ActivityService.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InstagramExercise" expanded="True">
+            <Node name="InstagramExercise" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Activities.xaml" expanded="True" />
+                <Node name="Profile.xaml" expanded="True">
+                  <Node name="Profile.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="InstagramExercise.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.InstagramExercise.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.9B7C2183-7F43-4662-A3B5-4A77B100748E" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{CA07B9D3-B08F-4E82-BFAA-C65AB76FDCA5}" ItemName="InstagramExercise.Android" ConfigurationId="Default" />
+        <StartupItem ItemId="{E6531A2D-18EC-4935-98AF-720F17FB980D}" ItemName="InstagramExercise.iOS" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>
