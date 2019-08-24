@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using InstagramExercise.Models;
 using Xamarin.Forms;
+using System.Linq;
 
 namespace InstagramExercise.Services
 {
@@ -19,9 +20,9 @@ namespace InstagramExercise.Services
             new User { NewUserId = 8, Name = "Tara Chang" },
             new User { NewUserId = 9, Name = "Tom K" }
         };
-        public IEnumerable<User> GetUsers(int userId)
+        public User GetUsers(int userId)
         {
-            return UserList;
+            return UserList.SingleOrDefault(u => u.NewUserId == userId);
 
         }
     }

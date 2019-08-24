@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="Multiple Projects">
   <MonoDevelop.Ide.ItemProperties.InstagramExercise.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.android" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="InstagramExercise/Views/Profile.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InstagramExercise/Views/MyProfile.xaml">
     <Files>
-      <File FileName="InstagramExercise/Views/Profile.xaml.cs" Line="20" Column="1" />
-      <File FileName="InstagramExercise/Services/UserService.cs" />
-      <File FileName="InstagramExercise/Views/Activities.xaml.cs" />
-      <File FileName="InstagramExercise/Views/Activities.xaml" />
-      <File FileName="InstagramExercise/Views/Profile.xaml" />
-      <File FileName="InstagramExercise/Services/ActivityService.cs" />
+      <File FileName="InstagramExercise/Views/Activities.xaml.cs" Line="5" Column="1" />
+      <File FileName="InstagramExercise/Views/Profile.xaml.cs" Line="1" Column="1" />
+      <File FileName="InstagramExercise/Services/UserService.cs" Line="1" Column="1" />
+      <File FileName="InstagramExercise/obj/Debug/netstandard2.0/Views/Profile.xaml.g.cs" Line="25" Column="1" />
+      <File FileName="InstagramExercise/Models/User.cs" Line="10" Column="41" />
+      <File FileName="InstagramExercise/Views/MyProfile.xaml" Line="3" Column="85" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,13 +18,10 @@
               <Node name="Services" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Activities.xaml" expanded="True" />
-                <Node name="Profile.xaml" expanded="True">
-                  <Node name="Profile.xaml.cs" selected="True" />
-                </Node>
+                <Node name="MyProfile.xaml" expanded="True" selected="True" />
+                <Node name="Profile.xaml" expanded="True" />
               </Node>
-              <Node name="App.xaml" expanded="True" />
             </Node>
-            <Node name="InstagramExercise.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
